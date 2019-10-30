@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xvlog.me</id>
     <title>xvlog</title>
-    <updated>2019-10-30T07:50:01.562Z</updated>
+    <updated>2019-10-30T08:15:13.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xvlog.me"/>
     <link rel="self" href="https://xvlog.me/atom.xml"/>

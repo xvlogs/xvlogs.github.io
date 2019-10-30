@@ -1,13 +1,13 @@
 <html>
   <head>
-    <meta charset="utf-8" />
+  <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>xvlog</title>
 <meta name="description" content="Life is like a boat." />
-<link rel="shortcut icon" href="https://xvlog.me/favicon.ico?v=1572423226590">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1572421847548">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://xvlog.me/styles/main.css">
+<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
@@ -19,8 +19,8 @@
     <div class="main">
       <div class="main-content">
         <div class="site-header">
-  <a href="https://xvlog.me">
-  <img class="avatar" src="https://xvlog.me/images/avatar.png?v=1572423226590" alt="">
+  <a href="http://localhost:4000">
+  <img class="avatar" src="http://localhost:4000/images/avatar.png?v=1572421847548" alt="">
   </a>
   <h1 class="site-title">
     xvlog
@@ -98,46 +98,29 @@
   </div>
 </div>
 
-    
-        <div class="post-container">
-  
-    <article class="post">
-      <a href="https://xvlog.me/post/hello-gridea">
-        <h2 class="post-title">Hello Gridea</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-12-12
-        </span>
-        <span>
-          2 min read
-        </span>
-        
-          <a href="https://xvlog.me/tag/PzGninQXD" class="post-tag">
-            # Gridea
-          </a>
-        
-      </div>
-      
-        <a href="https://xvlog.me/post/hello-gridea" class="post-feature-image" style="background-image: url('https://xvlog.me/post-images/hello-gridea.png')">
-        </a>
-      
-      <div class="post-abstract">
-        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 
-      </div>
-    </article>
-  
-</div>
+        <script src="http://localhost:4000/media/scripts/Valine.min.js"></script>
+ <div class="comment"></div>
 
-    
-        <div class="pagination-container">
-  
-  
-</div>
+<script>
+      new Valine({
+            el: '.comment',
 
-    
+            app_id: 'kx91xdHbFPICoENvwRCC7Pz8-9Nh9j0Va',
+
+
+            app_key: 'SUniv3H7OagoiuxrQlj7XEwx',
+
+
+            placeholder: '说点什么吧...',
+            
+            path: window.location.pathname,
+            pageSize: 30,
+            avatar:'mm', 
+       })
+
+    </script> 
+
         <div class="site-footer">
   © 2019 Powered by <a href="https://xvlog.me" target="_blank">XVLOG</a> | <span class="make-wheel" id="wheel"><i class="fa fa-cog fa-spin"></i> </span>
 
