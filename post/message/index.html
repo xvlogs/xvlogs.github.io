@@ -1,13 +1,13 @@
 <html>
   <head>
-  <meta charset="utf-8" />
+    <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>xvlog</title>
+<title>留言 | xvlog</title>
 <meta name="description" content="Life is like a boat." />
-<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1572421847548">
+<link rel="shortcut icon" href="https://xvlog.me/favicon.ico?v=1572425334777">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
+<link rel="stylesheet" href="https://xvlog.me/styles/main.css">
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
@@ -19,8 +19,8 @@
     <div class="main">
       <div class="main-content">
         <div class="site-header">
-  <a href="http://localhost:4000">
-  <img class="avatar" src="http://localhost:4000/images/avatar.png?v=1572421847548" alt="">
+  <a href="https://xvlog.me">
+  <img class="avatar" src="https://xvlog.me/images/avatar.png?v=1572425334777" alt="">
   </a>
   <h1 class="site-title">
     xvlog
@@ -55,7 +55,7 @@
       
     
       
-        <a href="/message" class="menu">
+        <a href="/post/message/" class="menu">
           留言
         </a>
       
@@ -98,8 +98,38 @@
   </div>
 </div>
 
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              留言
+            </h2>
+            <div class="post-info">
+              <span>
+                2019-10-30
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>欢迎在评论区留言~</p>
 
-        <script src="http://localhost:4000/media/scripts/Valine.min.js"></script>
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+        
+        <script src="https://xvlog.me/media/scripts/Valine.min.js"></script>
  <div class="comment"></div>
 
 <script>
@@ -120,6 +150,16 @@
        })
 
     </script> 
+<script>
+    if(window.location.hash){
+        var checkExist = setInterval(function() {
+           if ($(window.location.hash).length) {
+              $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 1000);
+              clearInterval(checkExist);
+           }
+        }, 100);
+    }
+</script> 
 
         <div class="site-footer">
   © 2019 Powered by <a href="https://xvlog.me" target="_blank">XVLOG</a> | <span class="make-wheel" id="wheel"><i class="fa fa-cog fa-spin"></i> </span>
