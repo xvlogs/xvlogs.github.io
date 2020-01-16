@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xvlog.me</id>
     <title>xvlog</title>
-    <updated>2020-01-14T03:58:37.489Z</updated>
+    <updated>2020-01-16T10:42:08.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xvlog.me"/>
     <link rel="self" href="https://xvlog.me/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://xvlog.me/images/avatar.png</logo>
     <icon>https://xvlog.me/favicon.ico</icon>
     <rights>All rights reserved 2020, xvlog</rights>
+    <entry>
+        <title type="html"><![CDATA[Life is like a boat.]]></title>
+        <id>https://xvlog.me/post/life-is-like-a-boat</id>
+        <link href="https://xvlog.me/post/life-is-like-a-boat">
+        </link>
+        <updated>2020-01-16T10:25:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>by Rie Fu</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>by Rie Fu</p>
+<!-- more -->
+<p>Nobody knows who I really am<br>
+I never felt this empty before<br>
+And if I ever need someone to come along<br>
+Who's gonna comfort me, and keep me strong</p>
+<p>We are all rowing the boat of fate<br>
+The waves keep on coming and we can't escape<br>
+But if we ever get lost on our way<br>
+The waves would guide you through another day</p>
+<p>远くで息をしてる　透明になったみたい<br>
+暗闇に思えたけど　目隠しされてただけ<br>
+祈りをささげて　新しい日を待つ<br>
+鲜やかに　光る海　その果てまで</p>
+<p>Nobody knows who I really am<br>
+Maybe they just don't give a damn<br>
+But if I ever need someone to come along<br>
+I know you would follow me, and keep me strong</p>
+<p>人の心はうつりゆく　抜け出したくなる<br>
+つきはまた新しい周期で　舟を连れてく</p>
+<p>And every time I see your face,<br>
+the oceans heave up to my heart<br>
+You make me wanna strain at the oars,<br>
+and soon I can see the shore</p>
+<p>Ah，I can't see the shore<br>
+When will l see the shore</p>
+<p>I want you to know who I really am<br>
+I never thought I'd feel this way towards you<br>
+And if you ever need someone to come along<br>
+I will follow you, and keep you strong</p>
+<p>旅はまだ続いてく　穏やかな日も<br>
+つきはまた新しい周期で　舟を照らし出す<br>
+祈りをささげて　新しい日を待つ<br>
+鲜やかに　光る海　その果てまで</p>
+<p>And every time I see your face,<br>
+the oceans heave up to my heart<br>
+You make me wanna strain at the oars,<br>
+and soon I can see the shore</p>
+<p>运命の船を漕ぎ<br>
+波は次から次へと私たちを袭うけど<br>
+それも素敌な旅ね　どれも素敌な旅ね</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xvlog.me/post/hello-gridea</id>
