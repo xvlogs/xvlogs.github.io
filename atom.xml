@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xvlog.me</id>
     <title>xvlog</title>
-    <updated>2020-01-16T10:42:08.111Z</updated>
+    <updated>2020-01-17T05:16:05.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xvlog.me"/>
     <link rel="self" href="https://xvlog.me/atom.xml"/>
@@ -59,6 +59,7 @@ and soon I can see the shore</p>
 <p>运命の船を漕ぎ<br>
 波は次から次へと私たちを袭うけど<br>
 それも素敌な旅ね　どれも素敌な旅ね</p>
+<figure data-type="image" tabindex="1"><img src="https://xvlog.me/post-images/1579238148211.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
