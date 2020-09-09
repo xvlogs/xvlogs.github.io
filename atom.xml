@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xvlog.me</id>
     <title>xvlog</title>
-    <updated>2020-09-09T02:12:11.161Z</updated>
+    <updated>2020-09-09T02:26:46.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xvlog.me"/>
     <link rel="self" href="https://xvlog.me/atom.xml"/>
@@ -20,6 +20,7 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>by Rie Fu</p>
 <!-- more -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=640565&auto=1&height=66"></iframe>
 <p>Nobody knows who I really am<br>
 I never felt this empty before<br>
 And if I ever need someone to come along<br>
