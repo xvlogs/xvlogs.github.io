@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xvlog.me</id>
     <title>xvlog</title>
-    <updated>2020-09-09T02:31:20.131Z</updated>
+    <updated>2021-01-05T03:28:23.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xvlog.me"/>
     <link rel="self" href="https://xvlog.me/atom.xml"/>
     <subtitle>Life is like a boat.</subtitle>
     <logo>https://xvlog.me/images/avatar.png</logo>
     <icon>https://xvlog.me/favicon.ico</icon>
-    <rights>All rights reserved 2020, xvlog</rights>
+    <rights>All rights reserved 2021, xvlog</rights>
     <entry>
         <title type="html"><![CDATA[Life is like a boat.]]></title>
-        <id>https://xvlog.me/post/life-is-like-a-boat</id>
-        <link href="https://xvlog.me/post/life-is-like-a-boat">
+        <id>https://xvlog.me/post/life-is-like-a-boat/</id>
+        <link href="https://xvlog.me/post/life-is-like-a-boat/">
         </link>
         <updated>2020-01-16T10:25:40.000Z</updated>
         <summary type="html"><![CDATA[<p>by Rie Fu</p>
